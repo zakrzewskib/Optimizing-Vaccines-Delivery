@@ -1,0 +1,4 @@
+BioTech 2.0     -> CentMedEko Centrala [Koszt = 300 * 70.5 = 21150 zł]
+Eko Polska 2020 -> CentMedEko Centrala [Koszt = 150 * 100 = 15000 zł]
+...
+Opłaty całkowite: 36150 zł

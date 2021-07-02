@@ -1,0 +1,7 @@
+BioTech 2.0 -> CentMedEko Centrala [Koszt = 300 * 70.5 = 21150.0 zł]
+Post-Covid Sp. z o.o. -> CentMedEko Centrala [Koszt = 150 * 80.0 = 12000.0 zł]
+BioTech 2.0 -> CentMedEko 24h [Koszt = 600 * 70.0 = 42000.0 zł]
+Eko Polska 2020 -> CentMedEko 24h [Koszt = 90 * 80.0 = 7200.0 zł]
+Eko Polska 2020 -> CentMedEko Nowogrodzka [Koszt = 450 * 90.0 = 40500.0 zł]
+Post-Covid Sp. z o.o. -> CentMedEko Nowogrodzka [Koszt = 750 * 100.0 = 75000.0 zł]
+Oplaty calkowite: 197850.0 zł

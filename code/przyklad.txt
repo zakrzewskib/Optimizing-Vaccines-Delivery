@@ -1,0 +1,32 @@
+# Producenci szczepionek (id | nazwa | dzienna produkcja)
+0 | BioTech 2.0 | 20
+1 | Eko Polska 2020 | 30
+2 | Post-Covid Sp. z o.o. | 10
+3 | P | 40
+# Apteki (id | nazwa | dzienne zapotrzebowanie)
+0 | CentMedEko Centrala | 10
+1 | CentMedEko 24h | 15
+2 | CentMedEko Nowogrodzka | 30
+3 | CentMedEko Nowogrodzka | 10
+4 | CentMedEko Nowogrodzka | 35
+# Połączenia producentów i aptek (id producenta | id apteki | dzienna maksymalna liczba dostarczanych szczepionek | koszt szczepionki [zł] )
+0 | 0 | 800 | 5
+1 | 0 | 900 | 2
+2 | 0 | 900 | 1
+3 | 0 | 900 | 5
+0 | 1 | 800 | 3
+1 | 1 | 900 | 1
+2 | 1 | 900 | 1
+3 | 1 | 900 | 4
+0 | 2 | 800 | 1
+1 | 2 | 900 | 1
+2 | 2 | 900 | 2
+3 | 2 | 900 | 3
+0 | 3 | 800 | 2
+1 | 3 | 900 | 1
+2 | 3 | 900 | 5
+3 | 3 | 900 | 1
+0 | 4 | 800 | 2
+1 | 4 | 900 | 1
+2 | 4 | 900 | 2
+3 | 4 | 900 | 6
