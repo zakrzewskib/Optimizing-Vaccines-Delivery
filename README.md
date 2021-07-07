@@ -1,7 +1,26 @@
-2020-11-11 - 2020-12-03
+### About
 
-Celem projektu było napisanie programu, który zminimalizuje koszty sprzedazy szczepionek do wszystkich podanych aptek.
+Project was made in Java during Game of tanks was a desktop game made during 3rd Semester of Applied Computer Science at the Warsaw University of Technology.
+<br>
+Final results are not optimized, so project was not finished successfuly.
+<br>
+Documentation starting the project I thought there would be an easy method of optimizing the total costs of distributing vaccines.
+That caused that project was a failure.
+<br>
+Best way to solve that problem was to use 
+<a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm" target="_blank" title="Wikipedia">Bellmann-Ford algorithm</a> and <a href="https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm" target="_blank" title="Wikipedia">Ford-Fulkerson algorithm</a> - solving - <a href="https://en.wikipedia.org/wiki/Minimum-cost_flow_problem" target="_blank" title="Wikipedia">minimum-cost flow problem</a>. 
 
+### Project duration time
+11th November 2020 - 3rd Devember 2020
+
+### Technologies used
+* Java (JDK 14)
+* JUnit 4.13
+* IntelliJ IDEA 2020.2.3 Community Edition
+
+Only the final version of the project was pushed to the github repository, because it was provided by the university (on university's website).
+
+### Examplary input file
 ```
 # Producenci szczepionek (id | nazwa | dzienna produkcja)
 0 | BioTech 2.0 | 900
@@ -22,6 +41,8 @@ Celem projektu było napisanie programu, który zminimalizuje koszty sprzedazy s
 2 | 1 | 900 | 90
 2 | 2 | 300 | 100
 ```
+
+### Examplary output file
 
 ```
 BioTech 2.0     -> CentMedEko Centrala [Koszt = 300 * 70.5 = 21150 zł]
